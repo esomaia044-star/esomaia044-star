@@ -2,28 +2,16 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<details>
-<p><strong> <summary> About me </summary> </strong></p>
+## 👩‍💻 About Me
 
-👩‍💻 Computer Science Student (2nd year)  
-💻 Learning programming step by step  
+💻 Computer Science Student (2nd year)  
 🔐 Interested in Cybersecurity  
 ⚙️ Exploring DevOps basics  
-
-</details>
+📚 Building strong programming fundamentals  
 
 </div>
 
 <hr>
-
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-blue)
-
-![C++](https://img.shields.io/badge/C++-learning-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-learning-FFD43B?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/Linux-beginner-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-learning-E44C30?style=flat&logo=git)
-
----
 
 ## 🧰 Tech Stack
 
@@ -39,7 +27,7 @@
 
 ---
 
-### ⚙️ Tools & Learning
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Tools
+![Linux](https://img.shields.io/badge/Linux-beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-learning-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
