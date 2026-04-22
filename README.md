@@ -1,10 +1,8 @@
-
 <h1>👋 Hey! I'm a Computer Science Student</h1>
 
 <p>
 Welcome to my GitHub profile 🚀  
-I'm a <b>2nd year Computer Science student</b> at Faculty of Computers and Information.
-I enjoy programming, problem solving, and exploring computer graphics.
+I'm a <b>2nd year Computer Science student</b> at Faculty of Computers and Information, interested in DevOps and Cybersecurity.
 </p>
 
 <h3>📚 What I'm currently studying</h3>
@@ -19,33 +17,29 @@ I enjoy programming, problem solving, and exploring computer graphics.
   <li>🧩 Problem Solving</li>
 </ul>
 
-<h3>🎮 Graphics & OpenGL</h3>
+<h3>☁️ Interests</h3>
 <ul>
-  <li>🖼️ Learning Computer Graphics concepts</li>
-  <li>🎨 Working with OpenGL</li>
-  <li>🚆 Building small simulation projects</li>
-  <li>🧠 Understanding rendering and transformations</li>
+  <li>🚀 DevOps (CI/CD, Automation, Deployment)</li>
+  <li>🔐 Cybersecurity & Network Security</li>
+  <li>🐧 Linux & System Administration</li>
+  <li>☁️ Cloud Computing Basics</li>
 </ul>
-
-<p>
-  <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl" />
-</p>
 
 <h3>💡 Skills I'm building</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Networking" src="https://img.shields.io/badge/-Networking-0A66C2?style=flat-square" />
   <img alt="Problem Solving" src="https://img.shields.io/badge/-Problem%20Solving-FF6F00?style=flat-square" />
-  <img alt="Data Structures" src="https://img.shields.io/badge/-Data%20Structures-4CAF50?style=flat-square" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-9C27B0?style=flat-square" />
 </p>
 
 <h3>🚀 Goals</h3>
 <ul>
-  <li>Become strong in Algorithms & Problem Solving 💪</li>
-  <li>Master Computer Graphics & OpenGL 🎮</li>
-  <li>Build real projects</li>
-  <li>Improve software engineering skills</li>
+  <li>Become strong in DevOps tools & practices ⚙️</li>
+  <li>Learn Cybersecurity fundamentals 🔐</li>
+  <li>Work on real-world systems & automation</li>
+  <li>Build strong Linux and networking skills</li>
 </ul>
 
 <h3>📫 Connect with me</h3>
@@ -54,3 +48,4 @@ I enjoy programming, problem solving, and exploring computer graphics.
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
