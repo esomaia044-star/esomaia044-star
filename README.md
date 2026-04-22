@@ -1,41 +1,38 @@
-<h1 align="left" id="somaia-title">👋 Hello there! I'm Somaia Essam</h1>
-<h3 align="left">Computer Science Student | Aspiring DevOps & Cybersecurity Engineer</h3>
+<div align="center" width="50">
 
-<p align="left">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username" alt="profile views" />
-  </a>
-  <a href="https://github.com/your-username?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?style=flat&logo=github">
-  </a>
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
----
+<details>
+<p><strong> <summary> Currently learning & building : </summary> </strong></p>
 
-- 🎓 I’m currently studying Computer Science  
-- ☁️ Interested in DevOps, Cloud Computing & Cybersecurity  
-- 🐧 I enjoy working with Linux systems & automation  
-- ⚙️ Currently learning Docker, Kubernetes & CI/CD basics  
-- 🧠 Practicing problem solving & networking fundamentals  
-- 💬 I like building small projects and improving step by step  
-- 📫 Reach me via GitHub or LinkedIn  
+💻 Cybersecurity basics  
+⚙️ DevOps fundamentals  
+📚 Computer Science (2nd year)
 
----
+</details>
 
-<h2 align="left">🛠️ Tech Stack (Learning & Using)</h2>
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
-<table>
-  <tr>
-    <td align="center" width="96">🐍<br>Python</td>
-    <td align="center" width="96">🐧<br>Linux</td>
-    <td align="center" width="96">🐳<br>Docker</td>
-    <td align="center" width="96">☸️<br>Kubernetes</td>
-    <td align="center" width="96">🌐<br>Networking</td>
-    <td align="center" width="96">🔧<br>Git</td>
-    <td align="center" width="96">⚡<br>Bash</td>
-  </tr>
-</table>
+</div>
 
----
+<hr></hr>
 
-<h2 align="left">📊 Coding Activity</h2>
+![tools](https://img.shields.io/badge/Tools%20I%20use-blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+```python
+class AboutMe:
+    def _init_(self):
+        self.name = "YOUR NAME"
+        self.role = "Computer Science Student"
+        self.year = "2nd Year"
+        self.interests = ["Cybersecurity", "DevOps basics", "Linux", "Networking"]
+        self.currently_learning = ["Linux", "Docker", "Networking basics"]
+
+    def say_hi(self):
+        print("Always learning, always building 🚀")
